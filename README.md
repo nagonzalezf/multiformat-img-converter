@@ -4,7 +4,7 @@ Simple image format converter built on Python 3.10.8 using tkinter & pillow libr
 
 This software is meant to process all the images contained within a specific folder and convert them to a desired format.
 
-Supports the popular formats .jpg, .jpeg, .gif, .png, .bmp, .tiff and .webp by default, and can also work with many other custom formats typed by the user.
+Supports the popular formats .jpg, .jpeg, .gif, .png, .bmp, .tiff and .webp by default, and can also work with many other custom formats specified by the user.
 
 ![Main window sample](screenshots/001.png)
 
