@@ -1,4 +1,4 @@
-# NAGF Image Converter
+# NAGF Multiformat Image Converter
 
 Simple image format converter built on Python 3.10.8 using tkinter & pillow libraries.
 
