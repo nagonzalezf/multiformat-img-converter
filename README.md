@@ -6,7 +6,7 @@ This software is meant to process all the images contained within a specific fol
 
 Supports the popular formats .jpg, .jpeg, .gif, .png, .bmp, .tiff and .webp by default, and can also work with many other custom formats specified by the user.
 
-![Main window sample](screenshots/001.png)
+![Main window sample](screenshots/002.png)
 
 The repository includes:
 * Source code of the software.
