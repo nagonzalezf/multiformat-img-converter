@@ -42,6 +42,7 @@ def exit_program(root):
   sys.exit()
 
 root = tk.Tk()
+root.wm_iconbitmap('icon.ico')
 root.title('Image Converter')
 root.geometry('600x400')
 
