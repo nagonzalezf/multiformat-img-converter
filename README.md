@@ -6,7 +6,7 @@ Simple image format converter built on Python 3.10.8 using tkinter & pillow libr
 
 The repository includes:
 * Source code of the software.
-* Alternative version of the software implementing opencv
+* Alternative version of the software implementing opencv (converter_cv.py)
 * Test images of different formats.
 * Screenshots of the software running on Windows 10.
 * Standalone executable.
