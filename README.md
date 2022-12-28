@@ -14,4 +14,4 @@ The repository includes:
 * Test images of different formats.
 * Screenshots of the software running on Windows 10.
 
-Standalone executable can be downloaded from https://drive.google.com/file/d/1x2GVfwfxS90wDfatE2u9yEAWA4CQ1knl/
+Standalone executable can be found inside the .zip folder: https://drive.google.com/file/d/1XMhb1YZazzJY2efEWfuVISdJjz0rPNty/
