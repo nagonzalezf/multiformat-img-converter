@@ -13,4 +13,5 @@ The repository includes:
 * Alternative version of the software implementing opencv (converter_cv.py)
 * Test images of different formats.
 * Screenshots of the software running on Windows 10.
-* Standalone executable.
+
+Standalone executable can be downloaded from https://drive.google.com/file/d/1TqwV-R7_1HuMCVyKsZuXUIf0eeXMplep/
