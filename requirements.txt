@@ -1,5 +1,1 @@
 pillow==9.3.0
-tkinter
-opencv-python==4.6.0
-sys
-os
