@@ -14,6 +14,6 @@ The repository includes:
 * Test images of different formats.
 * Screenshots of the software running on Windows 10.
 
-Standalone executable can be found inside the .zip folder: https://drive.google.com/file/d/1XMhb1YZazzJY2efEWfuVISdJjz0rPNty/
+Standalone executable can be found inside a .zip folder at: https://github.com/nagonzalezf/multiformat-img-converter/releases/
 
 NOTE: This software was developed as an engineering programming excercise to practice tkinter librarie for graphic user interface applications. It also works!
